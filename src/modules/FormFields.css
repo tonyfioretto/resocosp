@@ -1,0 +1,39 @@
+.registration-form-group{
+    margin: 15px 30px 0px 30px !important;
+}
+
+.registration-form-label{
+    font-weight: bold;
+}
+
+.registration-form-error{
+    color: #f00;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    height: 21px;
+}
+.register-button{
+    margin-top: 40px !important;
+    text-align: center;
+}
+.registration-question-sign{
+    margin-left: 10%;
+}
+
+.registration-input-format > .tooltip-inner{
+    background-color: #f8f8f8;
+    border: 1px solid #000;
+    color: #000;
+    padding: 0px;
+    max-width: 500px;
+}
+.tooltip-inner ul{
+    margin: 10px 10px 10px -10px;
+    padding-left: 15px;
+    list-style-type: none;
+    text-align: left;
+}
+.tooltip-inner p{
+    text-align: left;
+    margin: 10px
+}
